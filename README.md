@@ -1,1 +1,1 @@
-# mnist-digit-recognition
+# Mnist-digit-recognition
